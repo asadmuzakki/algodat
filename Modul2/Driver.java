@@ -22,5 +22,6 @@ public class Driver {
 		obj.push(obj2.pop());
 		System.out.println("\nStack setelah elemen dihapus");
 		obj.print();
+		obj2.print();
 	}
 }

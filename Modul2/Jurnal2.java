@@ -16,4 +16,7 @@ public class Jurnal2 {
 	public void InfixToPostfix(String data) {
 	
 	}
+	public void InfixToPrefix(String data) {
+	
+	}
 }

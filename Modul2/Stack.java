@@ -36,4 +36,7 @@ public class Stack {
 			}
 		}
 	}
+	public void printList(){
+	
+	}
 }
